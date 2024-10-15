@@ -1,2 +1,0 @@
-"Variable"	" "	"  "	"HR (univariable)"	"HR (multivariable)"	"Cell_Type"
-"xvar"	"Mean (SD)"	"5.7 (0.6)"	"1.15 (0.89-1.49, p=0.29312)"	"1.15 (0.89-1.49, p=0.29312)"	"NAIVE_CELLS"

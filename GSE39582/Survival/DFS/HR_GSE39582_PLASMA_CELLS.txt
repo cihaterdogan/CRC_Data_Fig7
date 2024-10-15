@@ -1,2 +1,0 @@
-"Variable"	" "	"  "	"HR (univariable)"	"HR (multivariable)"	"Cell_Type"
-"xvar"	"Mean (SD)"	"5.8 (0.8)"	"1.09 (0.89-1.33, p=0.38729)"	"1.09 (0.89-1.33, p=0.38729)"	"PLASMA_CELLS"
