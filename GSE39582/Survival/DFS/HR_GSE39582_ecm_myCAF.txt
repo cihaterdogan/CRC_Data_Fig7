@@ -1,0 +1,2 @@
+"Variable"	" "	"  "	"HR (univariable)"	"HR (multivariable)"	"Cell_Type"
+"xvar"	"Mean (SD)"	"6.5 (0.9)"	"1.42 (1.19-1.71, p=0.00016)"	"1.42 (1.19-1.71, p=0.00016)"	"ecm_myCAF"

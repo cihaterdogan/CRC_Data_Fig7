@@ -1,0 +1,2 @@
+"Variable"	" "	"  "	"HR (univariable)"	"HR (multivariable)"	"Cell_Type"
+"xvar"	"Mean (SD)"	"5.9 (0.8)"	"1.39 (1.15-1.68, p=0.00068)"	"1.39 (1.15-1.68, p=0.00068)"	"detox_iCAF"

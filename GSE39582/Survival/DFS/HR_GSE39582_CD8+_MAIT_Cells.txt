@@ -1,0 +1,2 @@
+"Variable"	" "	"  "	"HR (univariable)"	"HR (multivariable)"	"Cell_Type"
+"xvar"	"Mean (SD)"	"6.8 (0.9)"	"1.05 (0.87-1.27, p=0.57955)"	"1.05 (0.87-1.27, p=0.57955)"	"CD8+_MAIT_Cells"

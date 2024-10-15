@@ -1,0 +1,2 @@
+"Variable"	" "	"  "	"HR (univariable)"	"HR (multivariable)"	"Cell_Type"
+"xvar"	"Mean (SD)"	"5.9 (0.6)"	"1.67 (1.25-2.22, p=0.00045)"	"1.67 (1.25-2.22, p=0.00045)"	"wound_myCAF"

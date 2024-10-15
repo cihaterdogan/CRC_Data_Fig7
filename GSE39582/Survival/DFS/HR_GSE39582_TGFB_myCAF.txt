@@ -1,0 +1,2 @@
+"Variable"	" "	"  "	"HR (univariable)"	"HR (multivariable)"	"Cell_Type"
+"xvar"	"Mean (SD)"	"6.9 (0.8)"	"1.59 (1.27-1.98, p=0.00004)"	"1.59 (1.27-1.98, p=0.00004)"	"TGFB_myCAF"

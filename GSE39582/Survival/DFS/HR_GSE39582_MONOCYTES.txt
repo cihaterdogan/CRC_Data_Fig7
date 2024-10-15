@@ -1,0 +1,2 @@
+"Variable"	" "	"  "	"HR (univariable)"	"HR (multivariable)"	"Cell_Type"
+"xvar"	"Mean (SD)"	"5.4 (0.6)"	"1.41 (1.06-1.88, p=0.01839)"	"1.41 (1.06-1.88, p=0.01839)"	"MONOCYTES"

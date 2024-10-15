@@ -1,0 +1,2 @@
+"Variable"	" "	"  "	"HR (univariable)"	"HR (multivariable)"	"Cell_Type"
+"xvar"	"Mean (SD)"	"6.3 (0.7)"	"1.37 (1.07-1.77, p=0.01389)"	"1.37 (1.07-1.77, p=0.01389)"	"IL_iCAF"

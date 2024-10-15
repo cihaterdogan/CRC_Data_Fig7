@@ -1,0 +1,2 @@
+"Variable"	" "	"  "	"HR (univariable)"	"HR (multivariable)"	"Cell_Type"
+"xvar"	"Mean (SD)"	"6.8 (0.6)"	"1.85 (1.40-2.44, p=0.00001)"	"1.85 (1.40-2.44, p=0.00001)"	"Endothelial"

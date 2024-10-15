@@ -1,0 +1,2 @@
+"Variable"	" "	"  "	"HR (univariable)"	"HR (multivariable)"	"Cell_Type"
+"xvar"	"Mean (SD)"	"6.2 (0.8)"	"1.11 (0.89-1.38, p=0.36252)"	"1.11 (0.89-1.38, p=0.36252)"	"MEMORY_B_CELLS"

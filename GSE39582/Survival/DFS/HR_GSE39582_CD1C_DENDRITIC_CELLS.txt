@@ -1,0 +1,2 @@
+"Variable"	" "	"  "	"HR (univariable)"	"HR (multivariable)"	"Cell_Type"
+"xvar"	"Mean (SD)"	"7.4 (0.8)"	"1.27 (1.04-1.54, p=0.02040)"	"1.27 (1.04-1.54, p=0.02040)"	"CD1C_DENDRITIC_CELLS"
